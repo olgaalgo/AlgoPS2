@@ -2,7 +2,7 @@ from pygame import *
 from random import randint
 from time import time as timer #импортируем функцию для засекания времени, чтобы интерпретатор не искал эту функцию в pygame модуле time, даём ей другое название сами
 
-
+#добавляю новый код
 
 #фоновая музыка
 mixer.init()
